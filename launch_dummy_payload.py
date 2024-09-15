@@ -3,7 +3,7 @@ import requests
 import json
 from json import JSONDecodeError
 
-file_path = '' # Your filepath
+file_path = '' # Your filepath to payload.json
 
 data = {}
 

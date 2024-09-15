@@ -13,7 +13,7 @@ Of course, you need to launch the flask server. On root folder, launch app.py.
 ### First way : throught script
 
 Always on the root, a script called *launch_dummy_payload.py* init a request attempt to the server. To use it,
-just set the path to your file on the variable file_path, then launch it on CLI.
+just set the path to your payload.json in the variable *file_path* in the script, then launch it on CLI.
 
 ### Second way : curl command
 
